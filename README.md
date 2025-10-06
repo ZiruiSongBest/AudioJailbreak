@@ -3,7 +3,7 @@
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 
-[![Dataset](https://drive.google.com/file/d/14ZpQZ2h-nz1tLa_YTp1E0A2es_wKp4Hg/view?usp=sharing)
+[![Dataset](https://huggingface.co/datasets/MBZUAI/AudioJailbreak)
 
 AudioJailbreak is a benchmark framework specifically designed for evaluating the security of Audio Language Models (Audio LLMs). This project tests model defenses against malicious requests through various audio perturbation techniques.  
 **Note**: This project aims to improve the security of audio language models. Researchers should use this tool responsibly.
@@ -31,7 +31,7 @@ AudioJailbreak provides a comprehensive evaluation framework for testing the rob
 
 1. Clone repository:
 ```bash
-git clone 
+git clone https://github.com/mbzuai-nlp/AudioJailbreak.git
 cd AudioJailbreak
 ```
 
@@ -43,12 +43,12 @@ conda activate Audiojailbreak
 
 3. Download dataset (from Hugging Face):
 ```
-(https://drive.google.com/file/d/14ZpQZ2h-nz1tLa_YTp1E0A2es_wKp4Hg/view?usp=sharing)
+Link: https://huggingface.co/datasets/MBZUAI/AudioJailbreak
 ```
 
 ## 💾 Dataset
 
-**Important Notice**: This repository contains code only. All audio data and preprocessed/inference result JSONL files are hosted on Google Drive.
+**Important Notice**: This repository contains code only. All audio data and preprocessed/inference result JSONL files are hosted on Huggingface.
 
 Dataset includes:
 - Original speech samples (`audio/`)
