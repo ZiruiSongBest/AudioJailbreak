@@ -31,7 +31,7 @@ AudioJailbreak provides a comprehensive evaluation framework for testing the rob
 
 1. Clone repository:
 ```bash
-git clone https://github.com/mbzuai-nlp/AudioJailbreak
+git clone 
 cd AudioJailbreak
 ```
 
@@ -43,7 +43,7 @@ conda activate Audiojailbreak
 
 3. Download dataset (from Hugging Face):
 ```
-Link: https://huggingface.co/datasets/MBZUAI/AudioJailbreak
+(https://drive.google.com/file/d/14ZpQZ2h-nz1tLa_YTp1E0A2es_wKp4Hg/view?usp=sharing)
 ```
 
 ## 💾 Dataset
